@@ -23,4 +23,4 @@ A user-friendly application to manage scores and track progress, built to simpli
 
 ## 📫 Connect with Me  
 - **GitHub:** [Genix-Pulkit](https://github.com/Genix-Pulkit)  
-- **YouTube:** [Genix](https://youtube.com/@Genix)  
+- **YouTube:** [Genix](https://www.youtube.com/@GenixNeo)  
