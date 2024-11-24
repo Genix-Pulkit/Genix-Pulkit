@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Genix-Pulkit/Genix-Pulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pulkit Verma (aka Genix)!
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔥 Passionate Python developer focused on building practical applications.  
+- 🎮 Avid Valorant player (Radiant rank), enjoying the challenges and teamwork in gaming.  
+- 📚 Innovating through projects like ScoreMentor and StockEase.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects  
+### **StockEase**  
+Effortless inventory management for small businesses. Built with Python and MySQL for simplicity and efficiency.  
+
+### **ScoreMentor**  
+A user-friendly application to manage scores and track progress, built to simplify scoring management with Python and SQL.
+
+## 🌟 Hobbies  
+- Coding dynamic and useful applications.  
+- Competing in Valorant with my favorite agents, Iso and Clove.
+
+## 📈 GitHub Stats  
+![Pulkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genix-Pulkit&show_icons=true&theme=radical)
+
+## 📫 Connect with Me  
+- **GitHub:** [Genix-Pulkit](https://github.com/Genix-Pulkit)  
+- **YouTube:** [Genix](https://youtube.com/@Genix)  
