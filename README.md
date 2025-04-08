@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 🔥 Passionate Python developer focused on building practical applications.  
-- 🎮 Avid Valorant player (Radiant rank), enjoying the challenges and teamwork in gaming.  
+- 🎮 Avid Valorant player , enjoying the challenges and teamwork in gaming.  
 - 📚 Innovating through projects like ScoreMentor and StockEase.  
 
 ## 💻 Projects  
